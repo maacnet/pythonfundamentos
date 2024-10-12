@@ -4,4 +4,6 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 
 ## Contéudo
 
+- [Variáveis, Tipos e Conversão](Tipos.ipynb)
 - [Listas](Listas.ipynb)
+
