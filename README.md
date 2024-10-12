@@ -1,24 +1,10 @@
 # Fundamentos de Python para I.A e Machine Learning
 
-Descrição breve do projeto.
+Repositório com arquivos, documentos e projetos para estudo de Python for I.A and Machine Learning
 
-## Índice
+## Conteúdo
 
-- [Instalação](#instalação)
-- [Uso](#uso)
-- [Contribuição](#contribuição)
-- [Licença](#licença)
-
-## Instalação
-
-Instruções de como instalar o projeto.
-
-```bash
-# Clone o repositório
-git clone https://github.com/usuario/projeto.git
-
-# Entre no diretório do projeto
-cd projeto
-
-# Instale as dependências
-pip install -r requirements.txt
+- [Lista]
+- [Uso]
+- [Contribuição]
+- [Licença]
