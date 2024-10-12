@@ -4,4 +4,4 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 
 ## Contéudo
 
-- Listas
+- [Listas](Listas.ipynb)
