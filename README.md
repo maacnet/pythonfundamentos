@@ -6,4 +6,9 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 
 - [Variáveis, Tipos e Conversão](Tipos.ipynb)
 - [Listas](Listas.ipynb)
+- [Tuplas](Tuplas.ipynb)
+- [Dicionários](Dicionarios.ipynb)
+- [Conjuntos](Conjuntos.ipynb)
+
+
 
