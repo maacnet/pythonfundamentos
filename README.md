@@ -9,6 +9,8 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 - [Tuplas](Tuplas.ipynb)
 - [Dicionários](Dicionarios.ipynb)
 - [Conjuntos](Conjuntos.ipynb)
+- [Expressões e Variáveis](Expressoes.ipynb)
+
 
 
 
