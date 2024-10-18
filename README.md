@@ -19,6 +19,8 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 - [Exemplo 2](ExemploIf2.ipynb)
 - [Exemplo 3](ExemploIf3.ipynb)
 
+### Comando de Repetição While
 
+- [Repetição While](RepeticaoWhile.ipynb)
 
 
