@@ -15,6 +15,9 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 ### Condicional if
 
 - [Condicional if](Condicionalif.ipynb)
+- [Exemplo 1](ExemploIf1.ipynb)
+- [Exemplo 2](ExemploIf2.ipynb)
+- [Exemplo 3](ExemploIf3.ipynb)
 
 
 
