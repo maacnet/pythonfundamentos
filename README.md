@@ -2,7 +2,7 @@
 
 Repositório com arquivos, documentos e projetos para estudo de Python for I.A and Machine Learning
 
-## Contéudo
+# Fundamentos
 
 - [Variáveis, Tipos e Conversão](Tipos.ipynb)
 - [Operadores](operadores.ipynb)
@@ -32,7 +32,7 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 - [Funções lambda](lambda.ipynb)
 - [Outras Funções](outrasfuncoes.ipynb)
 
-
+# Vetorização
 
 
 
