@@ -5,6 +5,8 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 ## Contéudo
 
 - [Variáveis, Tipos e Conversão](Tipos.ipynb)
+- [Operadores](operadores.ipynb)
+- [Tabelas Verdade](Tabelasverdade.ipynb)
 - [Listas](Listas.ipynb)
 - [Tuplas](Tuplas.ipynb)
 - [Dicionários](Dicionarios.ipynb)
@@ -22,5 +24,15 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 ### Comando de Repetição While
 
 - [Repetição While](RepeticaoWhile.ipynb)
+- [Repetição For](for.ipynb)
+
+### Funções
+
+- [Funções](RepeticaoWhile.ipynb)
+- [Funções lambda](lambda.ipynb)
+- [Outras Funções](outrasfuncoes.ipynb)
+
+
+
 
 
