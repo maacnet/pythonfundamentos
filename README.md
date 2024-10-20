@@ -12,7 +12,7 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 - [Dicionários](Dicionarios.ipynb)
 - [Conjuntos](Conjuntos.ipynb)
 - [Expressões e Variáveis](Expressoes.ipynb)
-- [Strings](String.ipynb)
+- [Strings](Strings.ipynb)
 
 ### Condicional if
 
