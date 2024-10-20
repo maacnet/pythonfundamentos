@@ -34,7 +34,7 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 
 # Vetorização
 
-Instale o NumPy -   py -m pip install numpy
+Instale o NumPy: py -m pip install numpy
 
 - [Arrays NumPy](arraysnumpy.ipynb)
 - [Propriedade Arrays NumPy](propriedadesarraysnumpy.ipynb)
