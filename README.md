@@ -42,6 +42,12 @@ Instale o NumPy: py -m pip install numpy
 - [Manipulação](manipulacao.ipynb)
 - [Performance](performance.ipynb)
 
+# Introdução ao Pandas Series
 
+Instale o Pandas: py -m pip install pandas 
+Instale Opcional: py -m pip install openpyxl
+Instale: py -m pip install matplotlib
+
+- [Pandas Series](PandasSeries.ipynb)
 
 
