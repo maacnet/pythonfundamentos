@@ -53,5 +53,5 @@ Instale: py -m pip install matplotlib
 
 # Visualização de dados
 
-- [Quarteto de Anscombe](QuartetoAnscombe.ipynb)
+- [MatPlotLib](MatPlotLib.ipynb)
 
