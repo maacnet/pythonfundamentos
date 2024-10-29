@@ -5,7 +5,7 @@ Repositório com arquivos, documentos e projetos para estudo de Python for I.A a
 # Fundamentos
 
 - [Variáveis, Tipos e Conversão](Tipos.ipynb)
-- [Operadores](operadores.ipynb)
+- [Operadores](Operadores.ipynb)
 - [Tabelas Verdade](Tabelasverdade.ipynb)
 - [Listas](Listas.ipynb)
 - [Tuplas](Tuplas.ipynb)
