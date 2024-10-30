@@ -66,5 +66,6 @@ Instale: py -m pip install matplotlib
 
 - [Arquivos](Arquivos.ipynb)
 - [Exceções](Excecao.ipynb)
+- [Armazenando dados Json](armazenando.ipynb)
 
 
