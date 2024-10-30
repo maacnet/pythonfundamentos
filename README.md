@@ -62,3 +62,9 @@ Instale: py -m pip install matplotlib
 - [Importando Classe](importandoclasses.ipynb)
 
 
+# Arquivos e Exceções
+
+- [Arquivos](Arquivos.ipynb)
+- [Exceções](Excecao.ipynb)
+
+
